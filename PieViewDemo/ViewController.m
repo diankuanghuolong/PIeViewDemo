@@ -28,6 +28,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    self.title = @"扇形图／扇形统计图";
     
     /*
      本demo中 统计图MYHCircleManageView借鉴其他作者，可以在 MYHCircleManageView.h 中看到作者消息;
