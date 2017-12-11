@@ -16,6 +16,7 @@
 		B63CFE8C1FDA76880021EEE5 /* MYHCircleManageView.m in Sources */ = {isa = PBXBuildFile; fileRef = B63CFE871FDA76880021EEE5 /* MYHCircleManageView.m */; };
 		B63CFE8D1FDA76880021EEE5 /* MYHCircleView.m in Sources */ = {isa = PBXBuildFile; fileRef = B63CFE891FDA76880021EEE5 /* MYHCircleView.m */; };
 		B63CFE8E1FDA76880021EEE5 /* PieView.m in Sources */ = {isa = PBXBuildFile; fileRef = B63CFE8B1FDA76880021EEE5 /* PieView.m */; };
+		B6CC06A81FDE4F4000F82CB8 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 13.18.55.png in Resources */ = {isa = PBXBuildFile; fileRef = B6CC06A71FDE4F4000F82CB8 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 13.18.55.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		B63CFE891FDA76880021EEE5 /* MYHCircleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MYHCircleView.m; sourceTree = "<group>"; };
 		B63CFE8A1FDA76880021EEE5 /* PieView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PieView.h; sourceTree = "<group>"; };
 		B63CFE8B1FDA76880021EEE5 /* PieView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PieView.m; sourceTree = "<group>"; };
+		B6CC06A71FDE4F4000F82CB8 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 13.18.55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 13.18.55.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				B63CFE701FDA752B0021EEE5 /* ViewController.h */,
 				B63CFE711FDA752B0021EEE5 /* ViewController.m */,
 				B63CFE851FDA76880021EEE5 /* PieView */,
+				B6CC06A61FDE4F4000F82CB8 /* ShowImgs */,
 				B63CFE731FDA752B0021EEE5 /* Main.storyboard */,
 				B63CFE761FDA752B0021EEE5 /* Assets.xcassets */,
 				B63CFE781FDA752B0021EEE5 /* LaunchScreen.storyboard */,
@@ -94,6 +97,14 @@
 				B63CFE8B1FDA76880021EEE5 /* PieView.m */,
 			);
 			path = PieView;
+			sourceTree = "<group>";
+		};
+		B6CC06A61FDE4F4000F82CB8 /* ShowImgs */ = {
+			isa = PBXGroup;
+			children = (
+				B6CC06A71FDE4F4000F82CB8 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 13.18.55.png */,
+			);
+			path = ShowImgs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -155,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B63CFE7A1FDA752B0021EEE5 /* LaunchScreen.storyboard in Resources */,
+				B6CC06A81FDE4F4000F82CB8 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 13.18.55.png in Resources */,
 				B63CFE771FDA752B0021EEE5 /* Assets.xcassets in Resources */,
 				B63CFE751FDA752B0021EEE5 /* Main.storyboard in Resources */,
 			);
